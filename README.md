@@ -1,2 +1,2 @@
 # pr-test 
-[] python
+[x] python
